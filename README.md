@@ -1,6 +1,6 @@
 # FreeCodeCamp Projects 🐍
 
-This repo serves as my Python project journal as I progress through freeCodeCamp's Scientific Computing with Python track. Each script builds on key programming concepts in a bite-sized, digestible way. Whether it’s algorithms, CLI tools, or data handling, these projects are building blocks for my Python journey.
+This repo is where I keep track of my Python work as I go through the freeCodeCamp's Scientific Computing with Python path. Each code piece adds to big ideas in programming in small, easy bits. Be it algorithms, CLI tools, or managing data, these tasks help me build up my skills in Python. 
 
 ---
 
