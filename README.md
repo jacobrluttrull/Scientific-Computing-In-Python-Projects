@@ -19,13 +19,13 @@ You will learn and apply:
 
 ## 📁 Completed Projects
 
-| Project Name                     | Description                                                                 | Status       |
-|----------------------------------|-----------------------------------------------------------------------------|--------------|
-| `luhn_checker.py`               | Validates credit card numbers using the Luhn algorithm                      | ✅ Completed |
-| `freecodecampcipher.py`         | Implements a basic cipher encryption system (e.g. Vigenère)                 | ✅ Completed |
-| `ExpenseCliTracker.py`          | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
-| `ConvertToSnakeWithListComp.py` | Converts camelCase strings to snake_case using list comprehension           | ✅ Completed |
-| `square_root_bisection.py`      | Approximates the square root of a number using the bisection method         | ✅ Completed |
+| Project Name                        | Description                                                                 | Status       |
+|------------------------------------|-----------------------------------------------------------------------------|--------------|
+| `luhn_checker.py`                  | Validates credit card numbers using the Luhn algorithm                      | ✅ Completed |
+| `freecodecampcipher.py`            | Implements a basic cipher encryption system (e.g. Vigenère)                 | ✅ Completed |
+| `ExpenseCliTracker.py`             | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
+| `ConvertToSnakeWithListComp.py`    | Converts camelCase strings to snake_case using list comprehension           | ✅ Completed |
+| `arithmetic_formatter_project/`    | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed |
 
 ---
 
