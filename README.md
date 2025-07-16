@@ -1,6 +1,6 @@
 # FreeCodeCamp Projects 🐍
 
-This repo is where I keep track of my Python work as I go through the freeCodeCamp's Scientific Computing with Python path. Each code piece adds to big ideas in programming in small, easy bits. Be it algorithms, CLI tools, or managing data, these tasks help me build up my skills in Python. 
+This repo is where I keep track of my Python work as I go through freeCodeCamp's **Scientific Computing with Python** certification. Each code piece builds on core programming concepts in approachable, hands-on steps. Whether it's algorithms, CLI tools, or string manipulation with regex, these mini-projects help me grow my Python skills consistently.
 
 ---
 
@@ -14,6 +14,7 @@ You will learn and apply:
 * Functions and modules  
 * Object-Oriented Programming (OOP)  
 * Algorithms and data processing  
+* Regular Expressions
 
 ---
 
@@ -26,6 +27,7 @@ You will learn and apply:
 | `ExpenseCliTracker.py`             | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
 | `ConvertToSnakeWithListComp.py`    | Converts camelCase strings to snake_case using list comprehension           | ✅ Completed |
 | `arithmetic_formatter_project/`    | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed |
+| `regex_password_generator.py`      | Uses regex and standard library modules to generate secure passwords        | 🛠️ In Progress (41/72 steps) |
 
 ---
 
