@@ -27,7 +27,8 @@ You will learn and apply:
 | `ExpenseCliTracker.py`             | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
 | `ConvertToSnakeWithListComp.py`    | Converts camelCase strings to snake_case using list comprehension           | ✅ Completed |
 | `arithmetic_formatter_project/`    | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed |
-| `regex_password_generator.py`      | Uses regex and standard library modules to generate secure passwords        | 🛠️ In Progress (41/72 steps) |
+| `regex_password_generator.py`      | Generates strong passwords using regex constraints and random sampling      | ✅ Completed |
+
 
 ---
 
