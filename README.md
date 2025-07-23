@@ -21,8 +21,8 @@ You will learn and apply:
 
 ## 📁 Projects
 
-| Project Name                        | Description                                                                 | Status       |
-|------------------------------------|-----------------------------------------------------------------------------|--------------|
+| Project Name                        | Description                                                                 | Status      |
+|------------------------------------|-----------------------------------------------------------------------------|-------------|
 | `luhn_checker.py`                  | Validates credit card numbers using the Luhn algorithm                      | ✅ Completed |
 | `freecodecampcipher.py`            | Implements a basic cipher encryption system (e.g. Vigenère)                 | ✅ Completed |
 | `ExpenseCliTracker.py`             | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
@@ -30,7 +30,7 @@ You will learn and apply:
 | `arithmetic_formatter_project/`    | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed |
 | `regex_password_generator.py`      | Generates passwords with regex-based constraints                            | ✅ Completed |
 | `shortest_path_algorithm.py`       | Finds shortest path between graph nodes using weighted edges                | ✅ Completed |
-| `tower_of_hanoi_recursive.py`      | Solves the Tower of Hanoi puzzle recursively                                | 🛠️ In Progress |
+| `tower_of_hanoi_recursive.py`      | Solves the Tower of Hanoi puzzle recursively                                | ✅ Completed |
 
 ---
 
