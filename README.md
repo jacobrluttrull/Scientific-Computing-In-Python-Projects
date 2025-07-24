@@ -21,7 +21,7 @@ You will learn and apply:
 
 ## 📁 Projects
 
-| Project Name                        | Description                                                                 | Status      |
+| Project Directory                   | Description                                                                 | Status      |
 |------------------------------------|-----------------------------------------------------------------------------|-------------|
 | `luhn_checker.py`                  | Validates credit card numbers using the Luhn algorithm                      | ✅ Completed |
 | `freecodecampcipher.py`            | Implements a basic cipher encryption system (e.g. Vigenère)                 | ✅ Completed |
@@ -31,7 +31,8 @@ You will learn and apply:
 | `regex_password_generator.py`      | Generates passwords with regex-based constraints                            | ✅ Completed |
 | `shortest_path_algorithm.py`       | Finds shortest path between graph nodes using weighted edges                | ✅ Completed |
 | `tower_of_hanoi_recursive.py`      | Solves the Tower of Hanoi puzzle recursively                                | ✅ Completed |
-| `merge_sort_recursive.py`          | Sorts a list of numbers using the merge sort algorithm recursively          | ✅ Completed |
+| `merge_sort_recursive.py`          | Recursively sorts a list using the merge sort algorithm                     | ✅ Completed |
+| `time_calculator/`                 | Adds durations to time with day tracking and formatting logic               | ✅ Completed |
 
 ---
 
