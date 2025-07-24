@@ -33,6 +33,8 @@ You will learn and apply:
 | `tower_of_hanoi_recursive.py`      | Solves the Tower of Hanoi puzzle recursively                                | ✅ Completed |
 | `merge_sort_recursive.py`          | Recursively sorts a list using the merge sort algorithm                     | ✅ Completed |
 | `time_calculator/`                 | Adds durations to time with day tracking and formatting logic               | ✅ Completed |
+| `square_root_bisection.py`         | Approximates the square root of a number using the bisection method         | ✅ Completed |
+
 
 ---
 
