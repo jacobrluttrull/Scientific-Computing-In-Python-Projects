@@ -34,7 +34,7 @@ You will learn and apply:
 | `merge_sort_recursive.py`          | Implements recursive merge sort algorithm                                   | ✅ Completed |
 | `time_calculator/`                 | Adds time durations and calculates correct weekday and format               | ✅ Completed |
 | `square_root_bisection.py`         | Approximates square roots using bisection method                            | ✅ Completed |
-| `sudoku_solver.py`                 | Builds and solves a Sudoku puzzle using classes and objects                 | 🚧 In Progress |
+| `sudoku_solver.py`                 | Builds and solves a Sudoku puzzle using classes and objects                 | ✅ Completed |
 
 ---
 
