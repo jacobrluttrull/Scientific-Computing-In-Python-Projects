@@ -35,7 +35,7 @@ You will learn and apply:
 | `time_calculator/`                 | Adds time durations and calculates correct weekday and format               | ✅ Completed |
 | `square_root_bisection.py`         | Approximates square roots using bisection method                            | ✅ Completed |
 | `sudoku_solver.py`                 | Builds and solves a Sudoku puzzle using classes and objects                 | ✅ Completed |
-| `binary_tree_traversal.py`        | Implements a Binary Search Tree with in-order traversal and key operations      | 🛠️ In Progress |
+| `binary_tree_traversal.py`        | Implements a Binary Search Tree with in-order traversal and key operations   | ✅ Completed|
 
 ---
 
