@@ -36,7 +36,7 @@ You will learn and apply:
 | `square_root_bisection.py`         | Approximates square roots using bisection method                            | ✅ Completed |
 | `sudoku_solver.py`                 | Builds and solves a Sudoku puzzle using classes and objects                 | ✅ Completed |
 | `binary_tree_traversal.py`         | Implements a Binary Search Tree with in-order traversal and key operations  | ✅ Completed |
-| `budget_app/`                      | Tracks spending by category and creates a text-based spending chart         | ✅ Completed |
+| `vector_space.py`                  | Defines a 2D vector class with a method to calculate the vector norm        | ✅ Completed |
 
 ---
 
