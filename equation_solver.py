@@ -14,6 +14,7 @@ class Equation(ABC):
         if args[0] == 0:
             raise ValueError("Highest degree coefficient must be different from zero")
 
+        self.coefficients = args
 
     def __init_subclass__(cls):
         if not hasattr(cls, "degree"):
