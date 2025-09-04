@@ -13,14 +13,25 @@ class Equation(ABC):
             raise TypeError("Coefficients must be of type 'int' or 'float'")
         if args[0] == 0:
             raise ValueError("Highest degree coefficient must be different from zero")
-
-        self.coefficients = args
+        self.coefficients = {(len(args) - n - 1): arg for n, arg in enumerate(args)}
 
     def __init_subclass__(cls):
         if not hasattr(cls, "degree"):
             raise AttributeError(
                 f"Cannot create '{cls.__name__}' class: missing required attribute 'degree'"
             )
+
+    def __str__(self):
+        terms = []
+        for n, coefficient in self.coefficients.items():
+            if not coefficient:
+                continue
+            if n == 0:
+                terms.append(f'{coefficient:+}')
+            elif n == 1:
+                terms.append(f'{coefficient:+}x')
+        equation_string = ' '.join(terms) + ' = 0'
+        return equation_string.strip('+')
 
     @abstractmethod
     def solve(self):
@@ -42,3 +53,4 @@ class LinearEquation(Equation):
 
 
 lin_eq = LinearEquation(2, 3)
+print(lin_eq)
