@@ -81,8 +81,13 @@ class QuadraticEquation(Equation):
         a, b, c = self.coefficients.values()
         x = -b / (2 * a)
         y = a * x ** 2 + b * x + c
-
-        return {'x': x, 'y': y}
+        if a > 0:
+            concavity = 'upwards'
+            min_max = 'min'
+        else:
+            concavity = 'downwards'
+            min_max = 'max'
+        return {'x': x, 'y': y, min_max: concavity}
 
 
 lin_eq = LinearEquation(2, 3)
