@@ -37,7 +37,7 @@ You will learn and apply:
 | `sudoku_solver.py`              | Builds and solves a Sudoku puzzle using classes and objects                | ✅ Completed |
 | `binary_tree_traversal.py`      | Implements a Binary Search Tree with in-order traversal and key operations | ✅ Completed |
 | `vector_space.py`               | Defines a 2D vector class with a method to calculate the vector norm       | ✅ Completed |
-| `equation_solver.py`            | Making a equation solver using interfaces                                  | 🛠️ Not Completed|
+| `equation_solver.py`            | Making a equation solver using interfaces                                  | ✅ Completed |
 
 ---
 
