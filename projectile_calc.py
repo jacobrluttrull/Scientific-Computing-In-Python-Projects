@@ -92,16 +92,38 @@ class Graph:
         return table
 
     def create_trajectory(self):
+
         rounded_coords = [(round(x), round(y)) for x, y in self.__coordinates]
 
         x_max = max(rounded_coords, key=lambda i: i[0])[0]
         y_max = max(rounded_coords, key=lambda j: j[1])[1]
 
-        return x_max, y_max
+        matrix_list = [[" " for _ in range(x_max + 1)] for _ in range(y_max + 1)]
+
+        for x, y in rounded_coords:
+            matrix_list[-1 - y][x] = PROJECTILE
+
+        matrix = ["".join(line) for line in matrix_list]
+
+        matrix_axes = [y_axis_tick + row for row in matrix]
+        matrix_axes.append(" " + x_axis_tick * (len(matrix[0])))
+
+        graph = "\n" + "\n".join(matrix_axes) + "\n"
+
+        return graph
 
 
-ball = Projectile(10, 3, 45)
-print(ball)
-coordinates = ball.calculate_all_coordinates()
-graph = Graph(coordinates)
-print(graph.create_trajectory())
+def projectile_helper(speed, height, angle):
+    ball = Projectile(speed, height, angle)
+    print(ball)
+
+    coords = ball.calculate_all_coordinates()
+
+    graph = Graph(coords)
+
+    print(graph.create_coordinates_table())
+
+    print(graph.create_trajectory())
+
+
+projectile_helper(10, 6, 45)
