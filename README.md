@@ -21,24 +21,24 @@ You will learn and apply:
 
 ## 📁 Projects
 
-| Project Name                    | Description                                                                | Status            |
-|---------------------------------|----------------------------------------------------------------------------|-------------------|
-| `luhn_checker.py`               | Validates credit card numbers using the Luhn algorithm                     | ✅ Completed       |
-| `freecodecampcipher.py`         | Implements a basic cipher encryption system (e.g. Vigenère)                | ✅ Completed       |
-| `ExpenseCliTracker.py`          | CLI app to add, list, total, and filter expenses by category               | ✅ Completed       |
-| `ConvertToSnakeWithListComp.py` | Converts camelCase strings to snake_case using list comprehension          | ✅ Completed       |
-| `arithmetic_formatter_project/` | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed       |
-| `regex_password_generator.py`   | Generates passwords with regex-based constraints                           | ✅ Completed       |
-| `shortest_path_algorithm.py`    | Finds shortest path between graph nodes using weighted edges               | ✅ Completed       |
-| `tower_of_hanoi_recursive.py`   | Solves the Tower of Hanoi puzzle recursively                               | ✅ Completed       |
-| `merge_sort_recursive.py`       | Implements recursive merge sort algorithm                                  | ✅ Completed       |
-| `time_calculator/`              | Adds time durations and calculates correct weekday and format              | ✅ Completed       |
-| `square_root_bisection.py`      | Approximates square roots using bisection method                           | ✅ Completed       |
-| `sudoku_solver.py`              | Builds and solves a Sudoku puzzle using classes and objects                | ✅ Completed       |
-| `binary_tree_traversal.py`      | Implements a Binary Search Tree with in-order traversal and key operations | ✅ Completed       |
-| `vector_space.py`               | Defines a 2D vector class with a method to calculate the vector norm       | ✅ Completed       |
-| `equation_solver.py`            | Making a equation solver using interfaces                                  | ✅ Completed       |
-| `projectile_calc.py`            | Making a projectile calculator using OOP                                   | 🛠️ Not Completed |
+| Project Name                    | Description                                                                | Status        |
+|---------------------------------|----------------------------------------------------------------------------|---------------|
+| `luhn_checker.py`               | Validates credit card numbers using the Luhn algorithm                     | ✅ Completed   |
+| `freecodecampcipher.py`         | Implements a basic cipher encryption system (e.g. Vigenère)                | ✅ Completed   |
+| `ExpenseCliTracker.py`          | CLI app to add, list, total, and filter expenses by category               | ✅ Completed   |
+| `ConvertToSnakeWithListComp.py` | Converts camelCase strings to snake_case using list comprehension          | ✅ Completed   |
+| `arithmetic_formatter_project/` | Formats arithmetic problems vertically (includes formatter and test files) | ✅ Completed   |
+| `regex_password_generator.py`   | Generates passwords with regex-based constraints                           | ✅ Completed   |
+| `shortest_path_algorithm.py`    | Finds shortest path between graph nodes using weighted edges               | ✅ Completed   |
+| `tower_of_hanoi_recursive.py`   | Solves the Tower of Hanoi puzzle recursively                               | ✅ Completed   |
+| `merge_sort_recursive.py`       | Implements recursive merge sort algorithm                                  | ✅ Completed   |
+| `time_calculator/`              | Adds time durations and calculates correct weekday and format              | ✅ Completed   |
+| `square_root_bisection.py`      | Approximates square roots using bisection method                           | ✅ Completed   |
+| `sudoku_solver.py`              | Builds and solves a Sudoku puzzle using classes and objects                | ✅ Completed   |
+| `binary_tree_traversal.py`      | Implements a Binary Search Tree with in-order traversal and key operations | ✅ Completed   |
+| `vector_space.py`               | Defines a 2D vector class with a method to calculate the vector norm       | ✅ Completed   |
+| `equation_solver.py`            | Making a equation solver using interfaces                                  | ✅ Completed   |
+| `projectile_calc.py`            | Making a projectile calculator using OOP                                   | ✅ Completed   |
 ---
 
 ## 🛠️ How to Run
