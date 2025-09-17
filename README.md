@@ -1,4 +1,4 @@
-# FreeCodeCamp Projects 🐍
+# FreeCodeCamp Projects 
 
 This repo is where I keep track of my Python work as I go through freeCodeCamp's Scientific Computing with Python path. Each project helps me practice key programming concepts like algorithms, recursion, data structures, and more.
 
@@ -19,7 +19,7 @@ You will learn and apply:
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Project Name                    | Description                                                                | Status       |
 |---------------------------------|----------------------------------------------------------------------------|--------------|
@@ -43,7 +43,7 @@ You will learn and apply:
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 Make sure you're using Python 3. Then run any file like this:
 
